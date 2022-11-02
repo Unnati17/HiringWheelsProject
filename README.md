@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/67010484/199566462-9504c9ca-2b3f-45dc-9df9-88b3bc3739e8.png)
 
-**1. Register**
+1. Register
 
 ![image](https://user-images.githubusercontent.com/67010484/199567725-e495d771-b643-4160-a705-73efc7c29048.png)
 
